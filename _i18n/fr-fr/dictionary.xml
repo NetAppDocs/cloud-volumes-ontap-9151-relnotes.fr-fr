@@ -822,4 +822,8 @@
   <block id="dd0e59dbbbb851076ddfea2660d5a696" category="paragraph">Le correctif 9.15.1 P7 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
   <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link-macro">Afficher la liste des bogues corrigés dans le correctif P7</block>
   <block id="4e03a43ea47aeb577c42f9ad324a3454" category="paragraph"><block ref="f1b8440cb42692a81435e657f5965214" category="inline-link-macro-rx"></block> (Identifiant du site du support NetApp requis).</block>
+  <block id="91091878edec991a94dc77ddb63a59bf" category="section-title">9.15.1 P8 (17 avril 2025)</block>
+  <block id="77b3ec915fd6de5dcc6c7a7f37e3e15c" category="paragraph">Le correctif 9.15.1 P8 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.</block>
+  <block id="a5757ef07045a814bda504c5b48177c6" category="inline-link-macro">Afficher la liste des bogues corrigés dans le correctif P8</block>
+  <block id="b648a8dcdb79fe604205b1a88a989f8a" category="paragraph"><block ref="0e9162f512f30fecd64e4fc5cb3134b7" category="inline-link-macro-rx"></block> (Identifiant du site du support NetApp requis).</block>
 </blocks>

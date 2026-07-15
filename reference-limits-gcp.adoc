@@ -18,6 +18,7 @@ Cloud Volumes ONTAP présente des limites de configuration du stockage pour assu
 
 
 
+[[maximum-system-capacity-by-license]]
 == Capacité système maximale par licence
 
 La capacité système maximale d'un système Cloud Volumes ONTAP est déterminée par sa licence. La capacité système maximale inclut le stockage sur disque et le stockage objet utilisé pour le Tiering des données.
@@ -56,6 +57,7 @@ Non, ce n'est pas le cas. Les données d'une paire HA sont mises en miroir de ma
 
 
 
+[[aggregate-limits]]
 == Restrictions agrégées
 
 Cloud Volumes ONTAP regroupe les disques Google Cloud Platform dans des _aggrégats_. Les agrégats fournissent du stockage aux volumes.
@@ -89,6 +91,7 @@ Remarques :
 
 
 
+[[disk-and-tiering-limits]]
 == Limites de disque et de hiérarchisation
 
 Le tableau ci-dessous présente la capacité maximale du système avec des disques seuls et des disques avec Tiering des données inactives vers le stockage objet. Les limites de disque sont spécifiques aux disques qui contiennent des données utilisateur. Les limites n'incluent pas le disque de démarrage, le disque racine ou la NVRAM.
@@ -117,6 +120,7 @@ Le tableau ci-dessous présente la capacité maximale du système avec des disqu
 
 
 
+[[storage-vm-limits]]
 == Limites des machines virtuelles de stockage
 
 Certaines configurations vous permettent de créer des machines virtuelles de stockage supplémentaires pour Cloud Volumes ONTAP.
@@ -161,6 +165,7 @@ Les machines virtuelles de stockage que vous configurez pour la reprise après i
 
 
 
+[[logical-storage-limits]]
 == Limites de stockage logique
 
 [cols="22,22,56"]
@@ -203,6 +208,7 @@ Les machines virtuelles de stockage que vous configurez pour la reprise après i
 
 
 
+[[iscsi-storage-limits]]
 == Limites de stockage iSCSI
 
 [cols="3*"]
@@ -244,6 +250,7 @@ Les machines virtuelles de stockage que vous configurez pour la reprise après i
 |===
 
 
+[[cloud-volumes-ontap-ha-pairs-do-not-support-immediate-storage-giveback]]
 == Les paires haute disponibilité Cloud Volumes ONTAP ne prennent pas en charge le rétablissement immédiat du stockage
 
 Après le redémarrage d'un nœud, le partenaire doit synchroniser les données pour qu'il puisse renvoyer le système de stockage. Le temps nécessaire pour resynchroniser les données dépend de la quantité de données écrites par les clients alors que le nœud était en panne et de la vitesse d'écriture des données pendant le rétablissement.

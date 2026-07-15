@@ -18,6 +18,7 @@ Plusieurs configurations Cloud Volumes ONTAP sont prises en charge dans AWS.
 
 
 
+[[supported-number-of-nodes]]
 == Nombre de nœuds pris en charge
 
 Cloud Volumes ONTAP est disponible dans AWS en tant que système à un seul nœud et en tant que paire de nœuds haute disponibilité pour la tolérance aux pannes et la continuité de l'activité.
@@ -26,12 +27,14 @@ La mise à niveau d'un système à un seul nœud vers une paire haute disponibil
 
 
 
+[[supported-storage]]
 == Stockage pris en charge
 
 Cloud Volumes ONTAP prend en charge plusieurs types de disques EBS et le stockage objet S3 pour le Tiering des données. La capacité de stockage maximale dépend de la licence que vous choisissez.
 
 
 
+[[storage-support-by-license]]
 === Stockage pris en charge par licence
 
 Chaque licence prend en charge une capacité système maximale différente. La capacité système maximale inclut le stockage sur disque et le stockage objet utilisé pour le Tiering des données. NetApp ne prend pas en charge le dépassement de cette limite.
@@ -109,6 +112,7 @@ Remarques :
 ====
 
 
+[[supported-disk-sizes]]
 === Tailles de disque prises en charge
 
 Dans AWS, un agrégat peut contenir jusqu'à 6 disques de même taille. Mais si votre configuration prend en charge la fonctionnalité Amazon EBS Elastic volumes, un agrégat peut contenir jusqu'à 8 disques. https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-aws-elastic-volumes.html["En savoir plus sur la prise en charge d'Elastic volumes"^]
@@ -151,13 +155,14 @@ Dans AWS, un agrégat peut contenir jusqu'à 6 disques de même taille. Mais si 
 |===
 
 
+[[supported-ec2-compute]]
 == Calcul EC2 pris en charge
 
 Chaque licence Cloud Volumes ONTAP prend en charge différents types d'instances EC2. Pour plus de commodité, le tableau ci-dessous présente le CPU virtuel, la RAM et la bande passante pour chaque type d'instance pris en charge. https://aws.amazon.com/ec2/instance-types/["Pour en savoir plus sur les types d'instances EC2, consultez AWS"^].
 
 Cloud Volumes ONTAP peut être exécuté sur une instance EC2 réservée ou à la demande. Les solutions utilisant d'autres types d'instances ne sont pas prises en charge.
 
-Les bandes passantes présentées dans le tableau ci-dessous correspondent aux limites AWS documentées pour chaque type d'instance. Ces limites ne sont pas complètement alignées sur les solutions qu'offre Cloud Volumes ONTAP. Pour connaître les performances attendues, reportez-vous https://www.netapp.com/pdf.html?item=/media/9088-tr4383pdf.pdf["Rapport technique NetApp 4383 : caractérisation des performances de Cloud Volumes ONTAP dans Amazon Web Services avec des charges de travail applicatives"^]à la .
+Les bandes passantes indiquées dans le tableau ci-dessous correspondent aux limites AWS documentées pour chaque type d'instance. Ces limites ne correspondent pas entièrement à ce que Cloud Volumes ONTAP peut fournir. Pour connaître les performances attendues, consultez https://www.netapp.com/pdf.html?item=/media/9088-tr4383.pdf["Rapport technique NetApp 4383 : caractérisation des performances de Cloud Volumes ONTAP dans Amazon Web Services avec des charges de travail applicatives"^].
 
 [cols="8*"]
 |===
@@ -254,6 +259,7 @@ La vitesse d'écriture élevée n'est pas prise en charge avec ces types d'insta
 
 
 
+[[supported-regions]]
 == Régions prises en charge
 
 Pour la prise en charge des régions AWS, voir https://bluexp.netapp.com/cloud-volumes-global-regions["Régions Cloud volumes Global"^].

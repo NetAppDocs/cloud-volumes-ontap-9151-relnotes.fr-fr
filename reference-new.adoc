@@ -20,6 +20,7 @@ Des fonctionnalités et améliorations supplémentaires sont également introdui
 
 
 
+[[9-15-1-p16-22-december-2025]]
 == 9.15.1 P16 (22 décembre 2025)
 
 Le patch 9.15.1 P16 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. La console vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -28,6 +29,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p15-24-october-2025]]
 == 9.15.1 P15 (24 octobre 2025)
 
 Le patch 9.15.1 P15 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. La console vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -36,6 +38,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p14-09-october-2025]]
 == 9.15.1 P14 (09 octobre 2025)
 
 Le patch 9.15.1 P14 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. La console vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -44,6 +47,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p13-09-october-2025]]
 == 9.15.1 P13 (09 octobre 2025)
 
 Le patch 9.15.1 P13 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. La console vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -52,6 +56,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p12-22-august-2025]]
 == 9.15.1 P12 (22 août 2025)
 
 Le patch 9.15.1 P12 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs de cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers ce correctif.
@@ -60,6 +65,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p11-04-july-2025]]
 == 9.15.1 P11 (04 juillet 2025)
 
 Le correctif 9.15.1 P11 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -68,6 +74,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p10-29-may-2025]]
 == 9.15.1 P10 (29 mai 2025)
 
 Le correctif 9.15.1 P10 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -76,6 +83,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p8-17-april-2025]]
 == 9.15.1 P8 (17 avril 2025)
 
 Le correctif 9.15.1 P8 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -84,6 +92,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p7-10-march-2025]]
 == 9.15.1 P7 (10 mars 2025)
 
 Le correctif 9.15.1 P7 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -92,6 +101,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p7-10-march-2025]]
 == 9.15.1 P7 (10 mars 2025)
 
 Le correctif 9.15.1 P7 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -100,6 +110,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p6-20-january-2025]]
 == 9.15.1 P6 (20 janvier 2025)
 
 Le correctif 9.15.1 P6 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -108,6 +119,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p5-20-january-2025]]
 == 9.15.1 P5 (20 janvier 2025)
 
 Le correctif 9.15.1 P5 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -116,6 +128,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p4-25-november-2024]]
 == 9.15.1 P4 (25 novembre 2024)
 
 Le correctif 9.15.1 P4 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -124,6 +137,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p3-29-october-2024]]
 == 9.15.1 P3 (29 octobre 2024)
 
 Le correctif 9.15.1 P3 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -132,6 +146,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p2-14-october-2024]]
 == 9.15.1 P2 (14 octobre 2024)
 
 Le correctif 9.15.1 P2 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -140,6 +155,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-p1-03-september-2024]]
 == 9.15.1 P1 (03 septembre 2024)
 
 Le correctif 9.15.1 P1 est désormais disponible pour Cloud Volumes ONTAP pour tous les fournisseurs cloud. BlueXP vous invitera à mettre à niveau vos systèmes existants vers cette version de correctif.
@@ -148,6 +164,7 @@ link:https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/
 
 
 
+[[9-15-1-ga-22-august-2024]]
 == GA 9.15.1 (22 août 2024)
 
 La version GA de Cloud Volumes ONTAP 9.15.1 est désormais disponible dans AWS, Azure et Google Cloud. La version GA est disponible pour le déploiement et la mise à niveau.
@@ -156,6 +173,7 @@ Cette version comprend les fonctionnalités et améliorations suivantes pour Azu
 
 
 
+[[support-for-premium-ssd-v2-managed-disks-in-azure]]
 === Prise en charge des disques gérés SSD v2 Premium dans Azure
 
 Les disques gérés SSD v2 Premium sont désormais pris en charge dans les systèmes Cloud Volumes ONTAP sur Azure. Ces disques premium offrent de meilleures performances avec une latence plus faible pour un coût moindre pour les paires à un seul nœud et haute disponibilité (HA), par rapport aux disques gérés SSD Premium. Comme pour les autres disques gérés, la taille maximale de disque est de 32 Tio. Les performances (capacité, débit et IOPS) d'un disque géré Premium SSD v2 peuvent être configurées, ce qui permet aux charges de travail d'être économiques tout en répondant aux changements de besoins en termes de performances.
@@ -164,6 +182,7 @@ https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-storage.html#az
 
 
 
+[[deploy-ha-pairs-in-single-availability-zones-in-azure]]
 === Déployez des paires haute disponibilité dans des zones de disponibilité uniques dans Azure
 
 À partir de la version Cloud Volumes ONTAP 9.15.1, vous pouvez déployer des instances de machine virtuelle (VM) en mode HA dans des zones de disponibilité uniques (AZ) dans Azure. Contrairement aux précédents déploiements non zonaux, Cloud Volumes ONTAP 9.15.1 utilise les jeux d'échelle des machines virtuelles Microsoft en mode d'orchestration flexible pour déployer toutes les ressources, y compris les domaines de panne distincts au sein d'une même zone de disponibilité, garantissant ainsi une disponibilité optimale. Ce mode de déploiement, par défaut, utilise des disques gérés Premium SSD v2 lorsque les conditions suivantes sont remplies :
@@ -177,6 +196,7 @@ Si l'un de ces critères n'est pas rempli, le mode de déploiement non zonal pr�
 
 
 
+[[support-for-virtual-machines-scale-sets-to-unify-all-azure-ha-types]]
 === Prise en charge des machines virtuelles Jeux à l'échelle pour unifier tous les types Azure HA
 
 Cloud Volumes ONTAP 9.15.1 exploite les ensembles d'échelles des machines virtuelles en mode d'orchestration flexible sur Azure pour déployer des instances de machines virtuelles dans des zones de disponibilité uniques pour les paires haute disponibilité. Il couvre toutes les versions du mode HA, du blob de page, du LRS, du stockage redondant de zone (ZRS) ou du stockage multizone et du zonal LRS (AZ unique).
@@ -187,6 +207,7 @@ Cloud Volumes ONTAP 9.15.1 exploite les ensembles d'échelles des machines virtu
 
 
 
+[[support-for-flexcache-write-back]]
 === Prise en charge de l'écriture différée FlexCache
 
 À partir de Cloud Volumes ONTAP 9.15.1, l'écriture différée FlexCache est prise en charge comme autre mode d'opération pour l'écriture au niveau d'un cache.
@@ -197,12 +218,14 @@ Pour plus d'informations sur la façon dont BlueXP  gère les volumes FlexCache
 
 
 
+[[upgrade-notes]]
 == Notes de mise à niveau
 
 Lisez ces notes pour en savoir plus sur la mise à niveau vers cette version.
 
 
 
+[[how-to-upgrade]]
 === Comment mettre à niveau
 
 Les mises à niveau de Cloud Volumes ONTAP doivent être effectuées depuis BlueXP. Vous ne devez pas mettre à niveau Cloud Volumes ONTAP à l'aide de System Manager ou de l'interface de ligne de commandes. Cela peut affecter la stabilité du système.
@@ -211,12 +234,14 @@ link:http://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/task-updating-ontap
 
 
 
+[[supported-upgrade-path]]
 === Chemin de mise à niveau pris en charge
 
 Vous pouvez effectuer une mise à niveau vers Cloud Volumes ONTAP 9.15.1 à partir des versions 9.15.0 et 9.14.1. BlueXP vous invitera à mettre à niveau les systèmes Cloud Volumes ONTAP éligibles vers cette version.
 
 
 
+[[downtime]]
 === Ou non
 
 * La mise à niveau d'un système à un nœud unique permet de mettre le système hors ligne pendant 25 minutes au cours desquelles les E/S sont interrompues.
@@ -225,6 +250,7 @@ Vous pouvez effectuer une mise à niveau vers Cloud Volumes ONTAP 9.15.1 à part
 
 
 
+[[c4-m4-and-r4-instances-no-longer-supported]]
 === les instances c4, m4 et r4 ne sont plus prises en charge
 
 Dans AWS, les types d'instances EC2 c4, m4 et r4 ne sont plus pris en charge par Cloud Volumes ONTAP. Si un système existant s'exécute sur un type d'instance c4, m4 ou r4, vous devez passer à un type d'instance dans la famille d'instances c5, m5 ou r5. Vous ne pouvez pas mettre à niveau vers cette version tant que vous n'avez pas modifié le type d'instance.
